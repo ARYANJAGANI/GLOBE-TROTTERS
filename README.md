@@ -23,6 +23,30 @@ OUR TOURS PAGE<br>
 ![image](https://user-images.githubusercontent.com/96984144/210609111-c3058ed3-f8ac-4320-82d8-158443958924.png)<br>
 ![image](https://user-images.githubusercontent.com/96984144/210609244-e0a68bf6-9cd2-4006-aecf-58322c92d6b8.png)<br>
 ![image](https://user-images.githubusercontent.com/96984144/210610290-81f43be0-c46d-42a2-b5d9-b1819096ebef.png)<br>
+CONTACT US PAGE
+![image](https://user-images.githubusercontent.com/96984144/210612400-64fb5fdc-f041-4f04-97bf-5afb39262d4a.png)<br>
+![image](https://user-images.githubusercontent.com/96984144/210612564-b66eeab2-279a-4ee7-b92d-26316b344767.png)<br>
+![image](https://user-images.githubusercontent.com/96984144/210612633-8a295528-b29e-485a-8232-b6f810da8f8b.png)<br>
+![image](https://user-images.githubusercontent.com/96984144/210612676-46ed9c30-c4ee-4b0b-9b4d-fec16d5a49d7.png)<br>
+CHECK WEATHER PAGE<br>
+![image](https://user-images.githubusercontent.com/96984144/210612875-670bf1cd-60d1-45b6-b792-ea2a6a9a373b.png)<br>
+RESULTS AFTER ENTERING CITY NAME<br>
+![image](https://user-images.githubusercontent.com/96984144/210613300-201e7420-f3a0-4ffc-8532-ad80afe47449.png)<br>
+![image](https://user-images.githubusercontent.com/96984144/210613341-f33957f4-1f0b-4f02-b6c0-78b2f3cae590.png)<br>
+FAVOUTITES PAGE<br>
+![image](https://user-images.githubusercontent.com/96984144/210613492-881a61f5-522b-4e9b-86b3-0df60035cc61.png)<br>
+![image](https://user-images.githubusercontent.com/96984144/210613560-c13ff795-edcf-4eb2-b6d6-83b3edc896f7.png)<br>
+![image](https://user-images.githubusercontent.com/96984144/210613612-4c8f5762-492a-4e2a-80bd-ecb24887f4a2.png)<br>
+
+
+
+
+
+
+
+
+
+
 
 
 
